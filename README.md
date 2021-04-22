@@ -8,10 +8,8 @@ I also enjoy researching new technology. Learning is a never-ending journey, got
 
 - 🔭 I’m currently working on a Node + React project.
 - 🌱 I’m currently learning Node to become a Fullstack Developer.
-- 👯 I’m looking for freelance or partime job.
-- ⚡ Fun fact: I like Japanese pop culture. To the point that I collaborated with my friend to publish a monthly magazine some years ago. (We closed down now but it was really fun!)
-
-<br/>
+- 👯 I’m looking for freelance or partime jobs.
+- ⚡ Fun fact: I like Japanese pop culture. To the point that I collaborated with my friends to publish a monthly magazine some years ago. (We closed down now but it was really fun!)
 
 ### My skills:
 
@@ -28,6 +26,7 @@ I also enjoy researching new technology. Learning is a never-ending journey, got
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<br/>
 <br/>
 
 ### Connect with me:
