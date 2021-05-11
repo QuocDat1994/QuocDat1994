@@ -9,7 +9,7 @@ I also enjoy researching new technology. Learning is a never-ending journey, got
 - 🔭 I’m currently working on a Node + React project.
 - 🌱 I’m currently learning Node to become a Fullstack Developer.
 - 👯 I’m looking for freelance or partime jobs.
-- ⚡ Fun fact: I like Japanese pop culture. To the point that I collaborated with my friends to publish a monthly magazine some years ago. We closed down now but it was really fun!
+- ⚡ Fun fact: I started my first job as a Java developer, then switch to Javascript shortly later. So I have some knowledge about Backend development.
 
 ### My skills:
 
