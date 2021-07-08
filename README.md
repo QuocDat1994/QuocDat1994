@@ -6,9 +6,9 @@ Until now, I have been working for 4 years, specializing in Front-End developmen
 
 I also enjoy researching new technology. Learning is a never-ending journey, gotta keep learning, right?!
 
-- 🔭 I’m currently working on a Node + React project.
+- 💻 I’m currently working on a Node + React project.
 - 🌱 I’m currently learning Node to become a Fullstack Developer.
-- 👯 I’m looking for freelance or partime jobs.
+- 🔭 I’m looking for freelance or partime jobs.
 - ⚡ Fun fact: I started my first job as a Java developer, then switch to Javascript shortly later. So I have some knowledge about Backend development.
 
 ### My skills:
