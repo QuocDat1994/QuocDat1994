@@ -2,7 +2,7 @@
 
 I love creation. I want to create something that everybody can enjoy. That's why I become a developer!
 
-Until now, I have been working for 4 years, specializing in Front-End development. I love Javascript, as well as its framework React.js.
+Until now, I have been working for 5 years, specializing in Front-End development. I love Javascript, as well as its framework React.js.
 
 I also enjoy researching new technology. Learning is a never-ending journey, gotta keep learning, right?!
 
