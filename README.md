@@ -1,10 +1,10 @@
 ### Hi there, I'm Dat Truong 👋
 
-I love creation. I want to create something that everybody can enjoy. That's why I become a developer!
+Just your friendly neighborhood developer : )
 
-Until now, I have been working for more than 4 years, specializing in Front-End development. I love Javascript, as well as its framework React.js.
+I've been working as a developer since 2016, specialize in Front-End. My main language is Javascript and my favorite library is React.
 
-I also enjoy researching new technology. Learning is a never-ending journey, gotta keep learning, right?!
+I consider myself as a life-time learner. Learning is a never-ending journey, gotta keep learning!
 
 - 💻 I’m currently working on a Node + React project.
 - 🌱 I’m currently learning Node to become a Fullstack Developer.
